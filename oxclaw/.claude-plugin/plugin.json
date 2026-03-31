@@ -1,0 +1,6 @@
+{
+  "name": "oxclaw",
+  "description": "OxClaw channel for Claude Code — routes Teams and Outlook messages to Claude Code with built-in access control. Manage setup via /oxclaw:configure, access via /oxclaw:access.",
+  "version": "0.1.0",
+  "keywords": ["oxclaw", "teams", "outlook", "messaging", "channel", "mcp"]
+}

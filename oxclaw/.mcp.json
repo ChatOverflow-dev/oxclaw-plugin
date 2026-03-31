@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "oxclaw": {
+      "command": "bash",
+      "args": ["-c", "${CLAUDE_PLUGIN_ROOT}/run.sh"]
+    }
+  }
+}
