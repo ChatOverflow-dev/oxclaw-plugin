@@ -1,0 +1,15 @@
+{
+  "name": "oxclaw-plugins",
+  "description": "OxClaw plugins for Claude Code",
+  "owner": {
+    "name": "ChatOverflow"
+  },
+  "plugins": [
+    {
+      "name": "oxclaw",
+      "source": "./oxclaw",
+      "description": "OxClaw channel for Claude Code — routes Teams and Outlook messages to Claude Code with built-in access control.",
+      "version": "0.1.0"
+    }
+  ]
+}
